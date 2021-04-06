@@ -19,7 +19,7 @@ Unity 2D game development in C# for physics exercise.
 # spaceships
 2D videogame developed with Unity as an exercise.
 
-<p><img src="https://github.com/ArtCC/Spaceships/blob/main/spaceship.gif width="600""></p>
+<p><img src="https://github.com/ArtCC/Spaceships/blob/main/spaceship.gif width="600"></p>
 
 [GitHub repository](https://github.com/ArtCC/Spaceships)
 
